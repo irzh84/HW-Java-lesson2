@@ -28,5 +28,5 @@ bin/
 ### Mac OS ###
 .DS_Store
 
-hwjava2.iml
+.iml
 .idea/
